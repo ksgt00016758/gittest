@@ -12,6 +12,7 @@ import com.meidusa.toolkit.common.runtime.ApplicationConfig;
  */
 public class CccCronServiceApplication extends Application<ApplicationConfig> {
 
+	//启动程序
     @Override
     public void doRun() {
     }
